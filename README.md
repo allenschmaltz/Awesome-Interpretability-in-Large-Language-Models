@@ -54,6 +54,8 @@ This is an active repository and welcome to open a new issue if I miss any relev
 - [3Blue1Brown: But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=ZzfZh0kYLZMV8I-8)
 - [3Blue1Brown: Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=6sEeo0CnCOnFWU0g)
 - [3Blue1Brown: How might LLMs store facts | Chapter 7, Deep Learning](https://youtu.be/9-Jl0dxWQs8?si=xuf9XIV7AieZDOYA)
+- [Practical, Real-World Neural Network Interpretability and Deployment (2021)](https://raw.githubusercontent.com/allenschmaltz/Resolute_Resolutions/master/volume3/volume3.pdf)
+- [The Determinants of Controllable AGI (2025)](https://raw.githubusercontent.com/allenschmaltz/Resolute_Resolutions/master/volume5/volume5.pdf)
 
 # Awesome Interpretability Tutorials
 - ![GitHub Repo stars](https://img.shields.io/github/stars/callummcdougall/ARENA_3.0) [ARENA 3.0](https://github.com/callummcdougall/ARENA_3.0): understand mechanistic interpretability using TransformerLens.
@@ -100,13 +102,11 @@ This is an active repository and welcome to open a new issue if I miss any relev
 
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-|[**The Determinants of Controllable AGI **](https://raw.githubusercontent.com/allenschmaltz/Resolute_Resolutions/master/volume5/volume5.pdf)| Blog | 2025-03-23 | - |
 |[**Position: An Inner Interpretability Framework for AI Inspired by Lessons from Cognitive Neuroscience**](https://openreview.net/pdf?id=66KmnMhGU5)| ICML | 2024-06-25 | - |
 |[**Position Paper: An Inner Interpretability Framework for AI Inspired by Lessons from Cognitive Neuroscience**](https://arxiv.org/pdf/2406.01352v1)| ICML | 2024-06-03 | - |
 |[**Interpretability Needs a New Paradigm**](https://arxiv.org/pdf/2405.05386v1)| arXiv | 2024-05-08 | - |
 |[**Position Paper: Toward New Frameworks for Studying Model Representations**](https://arxiv.org/pdf/2402.03855v1)| arXiv | 2024-02-06 | - |
 |[**Rethinking Interpretability in the Era of Large Language Models**](https://arxiv.org/pdf/2402.01761v1)| arXiv | 2024-01-30 | - |
-|[**Practical, Real-World Neural Network Interpretability and Deployment**](https://raw.githubusercontent.com/allenschmaltz/Resolute_Resolutions/master/volume3/volume3.pdf)| Blog | 2021-12-11 | - |
 
 ## Interpretable Analysis of LLMs
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
