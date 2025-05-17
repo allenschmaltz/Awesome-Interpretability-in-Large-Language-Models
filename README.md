@@ -61,7 +61,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 - [ICML24: Physics of Language Models](https://physics.allen-zhu.com/home) ([Youtube](https://youtu.be/yBL7J0kgldU?si=KP0mlA7Oy0of2tUj))
 - [NAACL24: Explanations in the Era of Large Language Models](https://explanation-llm.github.io/)
 
-# Awesome Interpretability Forums & Worhshops
+# Awesome Interpretability Forums & Workshops
 - [AI Alignment Forum](https://www.alignmentforum.org/)
 - [LessWrong](https://www.lesswrong.com/)
 - [Mechanistic Interpretability Workshop 2024 ICML](https://icml2024mi.pages.dev/) ([Accepted papers](https://openreview.net/group?id=ICML.cc/2024/Workshop/MI#tab-accept-oral))
@@ -100,15 +100,18 @@ This is an active repository and welcome to open a new issue if I miss any relev
 
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+|[**The Determinants of Controllable AGI **](https://raw.githubusercontent.com/allenschmaltz/Resolute_Resolutions/master/volume5/volume5.pdf)| Blog | 2025-03-23 | - |
 |[**Position: An Inner Interpretability Framework for AI Inspired by Lessons from Cognitive Neuroscience**](https://openreview.net/pdf?id=66KmnMhGU5)| ICML | 2024-06-25 | - |
 |[**Position Paper: An Inner Interpretability Framework for AI Inspired by Lessons from Cognitive Neuroscience**](https://arxiv.org/pdf/2406.01352v1)| ICML | 2024-06-03 | - |
 |[**Interpretability Needs a New Paradigm**](https://arxiv.org/pdf/2405.05386v1)| arXiv | 2024-05-08 | - |
 |[**Position Paper: Toward New Frameworks for Studying Model Representations**](https://arxiv.org/pdf/2402.03855v1)| arXiv | 2024-02-06 | - |
 |[**Rethinking Interpretability in the Era of Large Language Models**](https://arxiv.org/pdf/2402.01761v1)| arXiv | 2024-01-30 | - |
+|[**Practical, Real-World Neural Network Interpretability and Deployment**](https://raw.githubusercontent.com/allenschmaltz/Resolute_Resolutions/master/volume3/volume3.pdf)| Blog | 2021-12-11 | - |
 
 ## Interpretable Analysis of LLMs
 |  Title  |   Venue  |   Date   |   Code   |   Blog   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Similarity-Distance-Magnitude Universal Verification**](https://arxiv.org/abs/2502.20167) <br>| arXiv | 2025-02-27 | [Github](https://github.com/ReexpressAI/sdm) | [Example App](https://github.com/ReexpressAI/reexpress_mcp_server) |
 | [**Interpreting Context Look-ups in Transformers: Investigating Attention-MLP Interactions**](https://arxiv.org/pdf/2402.15055) <br>| EMNLP | 2024-10-23 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/apartresearch/seqcont_circuits) <br> [**Towards Interpretable Sequence Continuation: Analyzing Shared Circuits in Large Language Models**](https://arxiv.org/pdf/2311.04131) <br>| EMNLP | 2024-10-04 | [Github](https://github.com/apartresearch/seqcont_circuits) | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/ydyjya/LLM-IHS-Explanation) <br> [**How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States**](https://arxiv.org/pdf/2406.05644) <br>| EMNLP | 2024-10-01 | [Github](https://github.com/ydyjya/LLM-IHS-Explanation) | - |
@@ -243,6 +246,7 @@ This is an active repository and welcome to open a new issue if I miss any relev
 | [**In-context Learning and Induction Heads**](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) <br>| Anthropic | 2022-03-08 | - | - |
 | [**A Mathematical Framework for Transformer Circuits**](https://transformer-circuits.pub/2021/framework/index.html) <br>| Anthropic | 2021-12-22 | - | - |
 | ![GitHub Repo stars](https://img.shields.io/github/stars/tech-srl/RASP) <br> [**Thinking Like Transformers**](https://arxiv.org/pdf/2211.00593) <br>| ICML | 2021-07-19 | [Github](https://github.com/tech-srl/RASP) | [Mini Tutorial](https://docs.google.com/presentation/d/1oIPHP_7qjsrnrDb3kdZIUZt-wQofkiQl/edit?usp=sharing&ouid=111912319459945992784&rtpof=true&sd=true) |
+| [**Detecting Local Insights from Global Labels: Supervised & Zero-Shot Sequence Labeling via a Convolutional Decomposition**](https://doi.org/10.1162/coli_a_00416) <br>| Computational Linguistics | 2021-07-12 | [Github](https://github.com/allenschmaltz/exa) | [Poster](https://github.com/allenschmaltz/exa/blob/main/emnlp_2021_presentation/emnlp_2021_cl_paper_1780_poster.pdf) |
 
 
 
